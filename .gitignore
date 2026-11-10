@@ -1,0 +1,13 @@
+# This repository is PUBLIC. Only the privacy policy, website pages
+# and checked data files belong here.
+
+# Never allow spec files in, even by accident
+spec-private/
+project-spec-*.md
+
+# macOS
+.DS_Store
+
+# Editor / tooling leftovers
+node_modules/
+.vscode/
